@@ -1,0 +1,45 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Model Files (optional)
+# Uncomment if models are large and regenerated
+# *.pkl
+
+# Training Outputs
+output/
+output/plots/
+
+# Logs
+*.log
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# IDE
+.vscode/
+.idea/
+dataset_wireshark.pcapng
+# Python Packaging
+build/
+dist/
+
+kaggle_models
+models
+# Environment Variables
+.env
+.env.*
+
+# Temporary Files
+*.tmp
+*.temp
