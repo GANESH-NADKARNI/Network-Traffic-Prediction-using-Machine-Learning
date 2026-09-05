@@ -21,6 +21,14 @@ Use this if you downloaded datasets such as:
 
 ---
 
+## 🤗 Hosted Model
+
+[![Hugging Face](https://img.shields.io/badge/🤗%20Model-network--traffic--prediction-FFD21E?style=for-the-badge)](https://huggingface.co/Ganesh-Nadkarni/network-traffic-prediction)
+
+The trained model from this project is published on Hugging Face — you can browse or download it directly instead of retraining from scratch.
+
+---
+
 # Features
 
 ## Wireshark Workflow
